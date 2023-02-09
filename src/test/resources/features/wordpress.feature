@@ -12,5 +12,5 @@ Feature: EriBank
       | message   |
       | <message> |
     Examples:
-      | email                | password                | message  |
-      | Your email goes here | Your Password Goes Here | jdsa1822 |
+      | email                | password                | message               |
+      | Your email goes here | Your Password Goes Here | Your header goes here |
